@@ -1,0 +1,20 @@
+---
+layout: activity-lecture.hbs
+---
+= Activity
+
+Change the Http example app we created using Promises into one that uses Jsonp instead.
+
+== Steps
+
+Fork this blitz:
+
+https://stackblitz.com/github/codecraft-tv/angular-course/tree/current/{chapter_num}.{chapter_slug}/{lecture_num}.{lecture_slug}/code/@activity[https://stackblitz.com/github/codecraft-tv/angular-course/tree/current/{chapter_num}.{chapter_slug}/{lecture_num}.{lecture_slug}/code/@activity, window="_blank"]
+
+Change the code to use `Jsonp` instead of `Http`.
+
+== Solution
+
+When you are ready compare your answer to the solution in this blitz:
+
+https://stackblitz.com/github/codecraft-tv/angular-course/tree/current/{chapter_num}.{chapter_slug}/{lecture_num}.{lecture_slug}/code/@solution[https://stackblitz.com/github/codecraft-tv/angular-course/tree/current/{chapter_num}.{chapter_slug}/{lecture_num}.{lecture_slug}/code/@solution, window="_blank"]

@@ -1,0 +1,29 @@
+---
+layout: activity-lecture.hbs
+---
+= Activity
+
+There are two more very useful RxJS operators we could use in our sample Angular RxJS application.
+
+`distinctUntilChanged` - http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-distinctUntilChanged
+
+`debounceTime` - http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-debounceTime
+
+Research both of these operators and extend the application so use them.
+
+== Steps
+
+Fork this blitz:
+
+https://stackblitz.com/github/codecraft-tv/angular-course/tree/current/{chapter_num}.{chapter_slug}/{lecture_num}.{lecture_slug}/code/@activity[https://stackblitz.com/github/codecraft-tv/angular-course/tree/current/{chapter_num}.{chapter_slug}/{lecture_num}.{lecture_slug}/code/@activity, window="_blank"]
+
+Implement both the operators.
+
+Read any *TODO* comments in the blitz for hints.
+
+== Solution
+
+
+When you are ready compare your answer to the solution in this blitz:
+
+https://stackblitz.com/github/codecraft-tv/angular-course/tree/current/{chapter_num}.{chapter_slug}/{lecture_num}.{lecture_slug}/code/@solution[https://stackblitz.com/github/codecraft-tv/angular-course/tree/current/{chapter_num}.{chapter_slug}/{lecture_num}.{lecture_slug}/code/@solution, window="_blank"]
